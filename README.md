@@ -21,4 +21,4 @@ ForEach-Object {
 }
 ```
 
-A tabelas entre 2021-01 e 2022-01 obtidas em 2022-01-19 estão em "Tabelas".
+As tabelas entre 2021-01 e 2022-01, obtidas em 2022-01-19, estão em "Tabelas".
